@@ -1,0 +1,8 @@
+#9876543210
+
+# going to extend the integer class so I can call it later
+class Integer	
+	def triangulate()
+		0.5*self*(self+1) 
+	end
+end
